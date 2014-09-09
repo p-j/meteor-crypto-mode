@@ -1,0 +1,35 @@
+{
+  "dependencies": [
+    [
+      "jparker:crypto-base64",
+      "3.1.2"
+    ],
+    [
+      "jparker:crypto-cipher-core",
+      "3.1.2"
+    ],
+    [
+      "jparker:crypto-core",
+      "3.1.2"
+    ],
+    [
+      "jparker:crypto-evpkdf",
+      "3.1.2"
+    ],
+    [
+      "jparker:crypto-md5",
+      "3.1.2"
+    ],
+    [
+      "meteor",
+      "1.0.3"
+    ],
+    [
+      "underscore",
+      "1.0.0"
+    ]
+  ],
+  "pluginDependencies": [],
+  "toolVersion": "meteor-tool@1.0.28",
+  "format": "1.0"
+}
