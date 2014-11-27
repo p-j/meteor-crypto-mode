@@ -1,5 +1,7 @@
 Ported to Meteor from [CryptoJS](https://code.google.com/p/crypto-js/). 
 
+[![Build Status](https://travis-ci.org/p-j/meteor-crypto-mode.svg)](https://travis-ci.org/p-j/meteor-crypto-mode)
+
 Provide a variety of Cipher Block Mode.
 
 Related package:
